@@ -1,0 +1,23 @@
+{
+  "name": "j-signature",
+  "version": "1.0.0",
+  "description": "jSignature is a jQuery plugin which simplifies creation of a signature capture field in the browser window, allowing a user to draw a signature using mouse, pen, or finger.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crm-factory/jSignature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crm-factory/jSignature/issues"
+  },
+  "homepage": "https://github.com/crm-factory/jSignature#readme"
+}
